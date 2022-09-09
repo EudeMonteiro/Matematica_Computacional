@@ -1,1 +1,3 @@
-# Matematica_Computacional
+# Matematica Computacional
+
+Repositório das atividades de Matemática Computacional
